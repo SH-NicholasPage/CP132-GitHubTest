@@ -10,6 +10,7 @@ public class Main
     // Replace the characters between the double-quotes with your name
     private static final String YOUR_NAME = "YOUR NAME HERE";
 
+    // DO NOT CHANGE ANYTHING BEYOND THIS POINT
     public static void main(String[] args)
     {
         //The "comment" below suppresses a warning. If you're curious, you can remove it to see what happens.

@@ -15,7 +15,7 @@ public class Main
     {
         //The "comment" below suppresses a warning. If you're curious, you can remove it to see what happens.
         //noinspection ConstantValue
-        if(YOUR_NAME.equals("YOUR NAME HERE"))
+        if(YOUR_NAME.equals("YOUR NAME HERE")) // <- DO NOT CHANGE THIS LINE!
         {
             System.err.println("You must change the variable \"YOUR_NAME\" to your name!");
         }
